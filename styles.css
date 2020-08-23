@@ -15,7 +15,7 @@ main {
 .title {
     color: #F4F3EA;
     text-align: center;
-    font-family: 'Baloo Tamma 2', cursive;
+    font-family: 'Baloo Tamma 2', Helvetica,sans-serif;
     font-size: 4rem;
 }
 
